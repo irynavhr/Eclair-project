@@ -22,7 +22,7 @@ This project was created as part of the **Web Technologies** course.
 ## Team Members
 
 - [@iryna-hrytsenko](https://github.com/irynavhr)
-- [@mariia-shendryk](https://github.com/mariia-shendryk)
+- [@mariia-shendryk](https://github.com/Mariia2403)
 - [@mykola-pylypenko](https://github.com/Kilka-ua)
 - [@ivan-holub](https://github.com/Cody356)
 
