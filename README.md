@@ -1,7 +1,7 @@
 # Eclair Project 🍰  
 A website for an imaginary confectionery shop.
 
-## 📌 Project Description
+## Project Description
 
 The goal of this project was to develop a functional website for a fictional confectionery named *Eclair*. The website allows users to:
 
@@ -19,20 +19,20 @@ Meanwhile, administrators can:
 
 This project was created as part of the **Web Technologies** course.
 
-## 👨‍💻 Team Members
+## Team Members
 
 - Iryna Hrytsenko *(this GitHub repository author)*  
 - Mariia Shendryk  
 - Mykola Pylypenko  
 - Ivan Holub  
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Frontend:** HTML, CSS, JavaScript  
 - **Backend:** PHP  
 - **Database:** MySQL  
 
-## ⚙️ Features
+## Features
 
 - Responsive product catalog  
 - Product filtering and search  
