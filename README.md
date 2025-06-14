@@ -21,10 +21,10 @@ This project was created as part of the **Web Technologies** course.
 
 ## Team Members
 
-- Iryna Hrytsenko *(this GitHub repository author)*  
-- Mariia Shendryk  
-- Mykola Pylypenko  
-- Ivan Holub  
+- [@iryna-hrytsenko](https://github.com/irynavhr)
+- [@mariia-shendryk](https://github.com/mariia-shendryk)
+- [@mykola-pylypenko](https://github.com/Kilka-ua)
+- [@ivan-holub](https://github.com/Cody356)
 
 ## Technologies Used
 
